@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	// assign values to bi1, bi2
 	bi1 = new BigInteger("555555555121111111111111111111111113");
 	bi2 = new BigInteger("511111111111111111111111110");
-	bi3 = new BigInteger("511111111111111111111111110"); //testing
+	bi3 = new BigInteger("511111111111111111111111110"); //testing  adding in rep
 
 	// perform add operation on bi1 using bi2
 	bi3 = bi1.add(bi2);
